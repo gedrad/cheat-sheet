@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: whitesmoke ;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+
+}
+
+.monospace {
+    font-family: "Lucida Console", Courier, monospace;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto; 
+  }
+
+  th {
+      background-color: yellowgreen;
+  }
+
+th, td {
+    border: 3px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  footer {
+    height: 50px; 
+  }
